@@ -1,5 +1,6 @@
 # 💫 About Me:
-Olá, meu nome é Raquel. Sou estudante de T.I e gosto <br>estar em constante evolução de meus conhecimentos.
+Olá, meu nome é Raquel. Sou estudante de T.I e gosto <br>de 
+estar em constante evolução de meus conhecimentos.
 
 
 ## 🌐 Socials:
